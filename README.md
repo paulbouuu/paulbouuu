@@ -1,0 +1,3 @@
+- 👋 Hi, I’m an engineering student at CentraleSupélec
+- 👀 I’m interested in ML, especially in neural networks development
+- 🌱 I’m looking forward to specialize in ML for my las year of studies
